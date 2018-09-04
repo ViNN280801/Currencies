@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<goods>
+  <order id="1">
+    <commodity id ="1">commodity 1</commodity>
+    <commodity id ="2">commodity 2</commodity>
+    <commodity id ="3">commodity 2</commodity>
+  </order>
+  <order id="2">
+    <commodity id ="1">commodity 1</commodity>
+    <commodity id ="2">commodity 2</commodity>
+  </order>
+  <order id="3">
+    <commodity id ="1">commodity 1</commodity>
+    <commodity id ="2">commodity 2</commodity>
+    <commodity id ="3">commodity 3</commodity>
+    <commodity id ="4">commodity 4</commodity>
+  </order>
+  <order id="4">
+    <commodity id ="1">commodity 1</commodity>
+  </order>
+</goods>

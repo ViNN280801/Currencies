@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<courses>
+  <bank name="Credit Agricole">
+    <buy>28.05</buy>
+    <sale>28.4</sale>
+  </bank>
+  <bank name="International Invest">
+    <buy>28.1</buy>
+    <sale>28.35</sale>
+  </bank>
+  <bank name="Universal Bank">
+    <buy>28.1</buy>
+    <sale>28.34</sale>
+  </bank>
+  <bank name="Альпари банк">
+    <buy>28.15</buy>
+    <sale>28.35</sale>
+  </bank>
+  <bank name="Альфа-банк">
+    <buy>28.15</buy>
+    <sale>28.30</sale>
+  </bank>
+  <bank name="АЛЬЯНС БАНК">
+    <buy>28.15</buy>
+    <sale>28.25</sale>
+  </bank>
+  <bank name="Аркада">
+    <buy>28.15</buy>
+    <sale>28.40</sale>
+  </bank>
+  <bank name="БМ Банк">
+    <buy>28.0</buy>
+    <sale>28.37</sale>
+  </bank>
+  <bank name="ВТБ">
+    <buy>28.2</buy>
+    <sale>28.9</sale>
+  </bank>
+  <bank name="Глобус">
+    <buy>28.1</buy>
+    <sale>28.3</sale>
+  </bank>
+  <bank name="Земельный капитал">
+    <buy>28.0</buy>
+    <sale>28.4</sale>
+  </bank>
+  <bank name="Идея Банк">
+    <buy>27.9</buy>
+    <sale>28.3</sale>
+  </bank>
+  <bank name="Коминвестбанк">
+    <buy>28.05</buy>
+    <sale>28.35</sale>
+  </bank>
+  <bank name="Конкорд">
+    <buy>28.2</buy>
+    <sale>28.35</sale>
+  </bank>
+  <bank name="Кредит Днепр">
+    <buy>28.0</buy>
+    <sale>28.4</sale>
+  </bank>
+</courses>
